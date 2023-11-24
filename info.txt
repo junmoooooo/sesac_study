@@ -1,0 +1,4 @@
+kim 23 011 a
+lee 25 016 b
+park 26 019 d
+lim 30 017 k
